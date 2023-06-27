@@ -1,4 +1,4 @@
-### Nice to meet you, my name is Gustavo 😁
+### Hi everyone, my name is Gustavo 😁
 
 - 🌱 I’m currently learning Java
 - 📫 Contact me on: gustavo_h07@hotmail.com
