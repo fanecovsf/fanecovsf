@@ -1,6 +1,6 @@
 ### Hi everyone, my name is Gustavo 😁
 
-- 🌱 I’m currently learning Java
+- 🌱 Currently learning Java
 - 📫 Contact me on: gustavo_h07@hotmail.com
 - 🐍 Python developer
 
