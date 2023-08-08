@@ -1,8 +1,9 @@
 ### Hi everyone, my name is Gustavo 😁
 
-- 🌱 Currently learning Java
-- 📫 Contact me on: gustavo_h07@hotmail.com
+- 💎 Currently learning Ruby
+- ☕ Java Begginer
 - 🐍 Python developer
+- 📫 Contact me on: gustavo_h07@hotmail.com
 
 <div style="display: inline_block">
   <br>
