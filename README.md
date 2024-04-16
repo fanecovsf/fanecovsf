@@ -1,6 +1,6 @@
 ### Hi everyone, my name is Gustavo 😁
 
-- 💎 Currently learning Ruby
+- 💻 Currently learning Node.Js
 - ☕ Java Begginer
 - 🐍 Python developer
 - 📫 Contact me on: gustavo_h07@hotmail.com
